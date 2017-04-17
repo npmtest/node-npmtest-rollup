@@ -1,7 +1,7 @@
 # test coverage for  [rollup (v0.41.6)](https://github.com/rollup/rollup)  [![npm package](https://img.shields.io/npm/v/npmtest-rollup.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rollup) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rollup.svg)](https://travis-ci.org/npmtest/node-npmtest-rollup)
 #### Next-generation ES6 module bundler
 
-[![NPM](https://nodei.co/npm/rollup.png?downloads=true)](https://www.npmjs.com/package/rollup)
+[![NPM](https://nodei.co/npm/rollup.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rollup)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-rollup/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rollup/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rollup/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rollup/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rollup/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rollup/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-rollup/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-rollup/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rollup/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-rollup/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-rollup%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rollup/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rollup/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-rollup/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rollup/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-rollup%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rollup/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-rollup/build/test-report.html](https://npmtest.github.io/node-npmtest-rollup/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-rollup/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rollup/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-rollup/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rollup/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rollup/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rollup/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-rollup/build/screenCapture.npmPackageListing.svg)
 
@@ -37,12 +43,10 @@
     },
     "contributors": [
         {
-            "name": "Oskar Segersvärd",
-            "email": "victorystick@gmail.com"
+            "name": "Oskar Segersvärd"
         },
         {
-            "name": "Bogdan Chadkin",
-            "email": "trysound@yandex.ru"
+            "name": "Bogdan Chadkin"
         }
     ],
     "dependencies": {
@@ -101,26 +105,21 @@
     "main": "dist/rollup.js",
     "maintainers": [
         {
-            "name": "eventualbuddha",
-            "email": "me@brian-donovan.com"
+            "name": "eventualbuddha"
         },
         {
-            "name": "rich_harris",
-            "email": "richard.a.harris@gmail.com"
+            "name": "rich_harris"
         },
         {
-            "name": "trysound",
-            "email": "trysound@yandex.ru"
+            "name": "trysound"
         },
         {
-            "name": "victorystick",
-            "email": "victorystick@gmail.com"
+            "name": "victorystick"
         }
     ],
     "module": "dist/rollup.es.js",
     "name": "rollup",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rollup/rollup.git"
