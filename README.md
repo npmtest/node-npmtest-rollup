@@ -1,4 +1,7 @@
-# test coverage for  [rollup (v0.41.6)](https://github.com/rollup/rollup)  [![npm package](https://img.shields.io/npm/v/npmtest-rollup.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rollup) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rollup.svg)](https://travis-ci.org/npmtest/node-npmtest-rollup)
+# npmtest-rollup
+
+#### basic test coverage for  [rollup (v0.41.6)](https://github.com/rollup/rollup)  [![npm package](https://img.shields.io/npm/v/npmtest-rollup.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rollup) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rollup.svg)](https://travis-ci.org/npmtest/node-npmtest-rollup)
+
 #### Next-generation ES6 module bundler
 
 [![NPM](https://nodei.co/npm/rollup.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rollup)
